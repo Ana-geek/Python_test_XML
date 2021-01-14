@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<test name="Python test">
+
+    <question number="1" text="Что такое отрицательный индекс?">
+        <answer number="1" correct="True" text="Индекс который начинает поиск с конца списка"/>
+        <answer number="2" correct="False" text="Индекс с минусовым значением"/>
+        <answer number="3" correct="False" text="Помощ друга"/>
+    </question>
+
+    <question number="2" text="Что такое срез?">
+        <answer number="4" correct="False" text="Вырезаный кусок кода"/>
+        <answer number="5" correct="False" text="Отрезок кода, где ошибка"/>
+        <answer number="6" correct="True" text="это методика, которая позволяет получить часть списка, кортежа или строки"/>
+    </question>
+
+    <question number="3" text="Как пишутся комментарии в питоне?">
+        <answer number="7" correct="False" text="Буковками"/>
+        <answer number="8" correct="True" text="С помощу символа #"/>
+        <answer number="9" correct="False" text="В питоне есть коментарии?"/>
+    </question>
+
+    <question number="4" text="В чем разница между списками (list) и кортежами (tuple)?">
+        <answer number="10" correct="True" text="Список может изменяться, а кортеж не может "/>
+        <answer number="11" correct="False" text="Список больше, кортеж меньше"/>
+        <answer number="12" correct="False" text="Разници нету"/>
+    </question>
+
+    <question number="5" text="Что такое словарь (dictionary)?">
+        <answer number="13" correct="False" text="Словарь как словарь, ничего особенного"/>
+        <answer number="14" correct="False" text="Еееем дайте минутку подумать"/>
+        <answer number="15" correct="True" text="НЕупорядоченные изменяемые коллекции ПАР объектов произвольных типов"/>
+    </question>
+
+    <question number="6" text="Что такое функция?">
+        <answer number="16" correct="True" text="Объект, принимающий аргументы и возвращающий значение."/>
+        <answer number="17" correct="False" text="Операция с числами"/>
+        <answer number="18" correct="False" text="Как в математике, не?"/>
+    </question>
+
+    <question number="7" text="Что такое рекурсия?">
+        <answer number="19" correct="False" text="Аналог цикла"/>
+        <answer number="20" correct="True" text="Вызов функции внутри этой же функции"/>
+        <answer number="21" correct="False" text="Закленание из Гарри Поттера"/>
+    </question>
+
+    <question number="8" text="Что такое РЕР8?">
+        <answer number="22" correct="False" text="Энкодинг"/>
+        <answer number="23" correct="True" text="Это соглашение о программировании в питоне, которое содержит рекомендации для повышения читаемости кода."/>
+        <answer number="24" correct="False" text="Абракадабра какая-то"/>
+    </question>
+
+    <question number="9" text="Чем Python отличается от Java?">
+        <answer number="25" correct="False" text="он просто круче"/>
+        <answer number="26" correct="True" text="Python использует отступы, а не скобки
+В Python динамическая типизация + Python — простой и лаконичный"/>
+        <answer number="27" correct="False" text="без понятия..."/>
+    </question>
+
+    <question number="10" text="Python — это...">
+        <answer number="28" correct="True" text="интерпретируемый язык"/>
+        <answer number="29" correct="False" text="новый язык"/>
+        <answer number="30" correct="False" text="язык ассемблера"/>
+    </question>
+
+</test>
